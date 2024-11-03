@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="9864cbf691c0" tvg-name="LIVE1 VIP" tvg-country="IN" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2E1NTBkYzItMDBjMC00NTg2LWI5ZTItNjMxMjc4MWIxNTAzXkEyXkFqcGc@._V1_.jpg" tvg-chno="9864cbf691c0" group-title="",Pathaan
-https://mtlivestream.com/asian/ytlive/index.m3u8
-#EXTINF:-1 tvg-id="a01c29a24287" tvg-name="LIVE2 VIP" tvg-country="IN" tvg-logo="https://assets.gadgets360cdn.com/pricee/assets/product/202206/Jawan-poster_1655912386.jpg" tvg-chno="a01c29a24287" group-title="",Jawan
-https://stream.imotv.online/toffe/live.php?id=a01c29a24287&e=.m3u8
-#EXTINF:-1 tvg-id="9b35bbb302b9" tvg-name="BAN vs IND VIP" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Fighter_film_teaser.jpg" tvg-chno="9b35bbb302b9" group-title="",BAN vs IND VIP
-https://stream.imotv.online/toffe/live.php?id=9b35bbb302b9&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pathaan (2023) ," tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arf00BkwvXo0CFKbaD9OpqdE4Nu.jpg" group-title="MOVIES WITH SUBTITLES",Pathaan (2023) ,
+https://starshare.live:443/movie/Leroy123/Leroy123/230682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jawan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg" group-title="INDIAN FHD (2023)",Jawan (2023)
+https://starshare.live:443/movie/Leroy123/Leroy123/234833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fighter (2024) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDZowwb9GZGEctAu2PCpjiPQAMM.jpg" group-title="INDIAN FHD (2024)",Fighter (2024) (Hindi)
+https://starshare.live:443/movie/Leroy123/Leroy123/302935.mp4
